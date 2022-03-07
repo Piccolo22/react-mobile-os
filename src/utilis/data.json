@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Mobile Operating Syatem",
+        "company": ["Android", "Blackberry", "iPhone", "Windows Phone"]
+      },
+      {
+        "title": "Mobile Manufacturers",
+        "company": ["Samsung", "HTC", "Micromax", "Apple"]
+      } 
+]
